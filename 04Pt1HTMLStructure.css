@@ -1,0 +1,38 @@
+* Olivia Bocchetti
+* Due Date 
+* 04 Pt1 HTML Structure
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+#RehobethBeach {height: 300px; width: 400px;}
+#float
+
+header{background-color: azure}
+main{background-color: antiquewhite}
+footer{background-color: darksalmon}
+
+  
+a:link{
+background: color: yellow;
+    color:dodgerblue;}
+ 
+a:hover, a:focus {
+background-color: dodgerblue;
+    color:yellow;}
+
+
+/* Body properties here */ 
+
+body {font-family:fantasy;}
+
+ h1 { text-align: center;
+    text-decoration: underline overline; }
+
+
+
+
